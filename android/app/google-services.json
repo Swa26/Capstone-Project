@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "136889715946",
+    "project_id": "btech-cakewala",
+    "storage_bucket": "btech-cakewala.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136889715946:android:f98224aaf95ae038011b93",
+        "android_client_info": {
+          "package_name": "com.example.capstoneproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136889715946-g40u2k24q0irct0gghtg3061rhqpen14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNx1pI1RM6C-fwr7YdJ89reNHjE_qEvSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136889715946-g40u2k24q0irct0gghtg3061rhqpen14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
