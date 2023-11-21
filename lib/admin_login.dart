@@ -51,8 +51,8 @@ class AdminLoginView extends HookConsumerWidget {
                     height: deviceHeight / 5.5,
                   ),
                   Center(
-                    child: Image.network(
-                      'https://img.freepik.com/free-photo/delicious-cake-with-fruits_23-2150727719.jpg?size=626&ext=jpg&ga=GA1.1.1021034273.1693909009&semt=ais',
+                    child: Image.asset(
+                      "assets/images/3.png",
                       width: 300.0,
                       height: 200.0,
                     ),
@@ -167,6 +167,7 @@ class RegisterAndLogin extends HookConsumerWidget {
   Widget build(BuildContext context, WidgetRef ref) {
     final viewModelProvide = ref.watch(viewModel);
     return Row(
+      mainAxisAlignment: MainAxisAlignment.center,
       children: [
         SizedBox(
           height: 50.0,

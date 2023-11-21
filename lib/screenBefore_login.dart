@@ -38,10 +38,10 @@ class ScreenBeforeLogin extends HookConsumerWidget {
               child: Column(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
-                  Image.network(
-                    'https://img.freepik.com/free-photo/delicious-cake-with-fruits_23-2150727719.jpg?size=626&ext=jpg&ga=GA1.1.1021034273.1693909009&semt=ais',
-                    width: width / 1.5,
-                    height: height / 2,
+                  Image.asset(
+                    'assets/images/1.png',
+                    height: height / 1.5,
+                    width: width / 2,
                   ),
                   SizedBox(
                     height: 30.0,

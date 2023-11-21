@@ -55,7 +55,7 @@ class _HomeState extends State<Home> {
                 height: 10.0,
               ),
               Image.network(
-                'https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg?size=626&ext=jpg&ga=GA1.1.1437964836.1692623103&semt=sph',
+                'https://cdn2.iconfinder.com/data/icons/membership-account-outline/200/coder-512.png',
                 height: 300.0,
                 width: 300.0,
               ),
